@@ -2,14 +2,21 @@
   url: /
   external: false
 
-- title: search
-  url: /search/
-  external: false
-
 - title: CTFtime
   url: https://ctftime.org/team/170653
   external: true
 
+- title: writeups
+  url: /writeups/
+  external: false
+
+
 - title: about
   url: /about/
   external: false
+
+- title: search
+  url: /search/
+  external: false
+
+

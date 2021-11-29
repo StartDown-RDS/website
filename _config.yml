@@ -55,6 +55,15 @@ jekyll_compose:
     tags: []
     description:
 
+links:
+- title : Writeups
+  url: /writeups/
+- title : About
+  url : /about/
+- title : Search
+  url : /search/
+
+
 # Homepage limit posts
 number_of_posts: 5
 
